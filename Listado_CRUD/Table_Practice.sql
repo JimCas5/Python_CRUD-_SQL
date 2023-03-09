@@ -1,0 +1,1 @@
+SELECT * FROM personas_bd.user;
